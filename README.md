@@ -17,3 +17,16 @@ The **Animated Login Page** is a beautifully designed login form with smooth ani
 - **JavaScript** - Dynamic form interactions.  
 
 ## 📂 Project Structure  
+📁 animated_login_page
+
+├── 📜 index.html # Login page structure
+
+├── 🎨 style.css # Styling and animations
+
+├── 🛠️ script.js # JavaScript for interactivity
+
+├── 🖼️ bg_image.jpg # Background image
+
+├── 🖼️ logo.png # Logo image
+
+├── 📜 README.md # Project documentation
