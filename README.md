@@ -3,7 +3,7 @@
 ![Login Page Preview](login.png)  
 
 ## 📌 Overview  
-The **Animated Login Page** is a beautifully designed login form with smooth animations and an interactive UI. It enhances the user experience with engaging effects while maintaining a clean and responsive layout.  
+The **Animated Login Page** is a beautifully designed login form with smooth animations and an interactive UI. It enhances the user experience with engaging effects while maintaining a clean and responsive layout. .
 
 ## ✨ Features  
 - 🎨 **Attractive UI**: Modern and sleek design.  
